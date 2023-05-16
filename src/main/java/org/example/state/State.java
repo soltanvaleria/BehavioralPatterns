@@ -11,5 +11,4 @@ public class State {
     System.out.println("Light already off");
   }
 
-
 }
