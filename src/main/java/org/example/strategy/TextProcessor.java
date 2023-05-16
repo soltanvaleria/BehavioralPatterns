@@ -9,7 +9,6 @@ public class TextProcessor {
   public TextProcessor(OutputFormat format) {
     setOutputFormat(format);
   }
-
   public void setOutputFormat(OutputFormat format) {
     switch (format)
     {

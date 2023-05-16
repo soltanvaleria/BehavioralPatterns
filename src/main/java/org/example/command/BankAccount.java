@@ -1,6 +1,6 @@
 package org.example.command;
 
-public class BankAccount extends Client {
+public class BankAccount {
   private int balance;
   private int overdraftLimit = -1000;
 
